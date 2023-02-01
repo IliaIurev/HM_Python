@@ -1,4 +1,4 @@
-chislo = str(input())
+chislo = str(input("Введите число: "))
 len_chisla = int(len(chislo))
 summ = 0
 for i in range(len_chisla):
